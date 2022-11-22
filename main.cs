@@ -14,7 +14,7 @@ class Program
         int randomNumber = random.Next(1, 6);
         int randomNumber2 = random.Next(-6, -1);
         string choice;
-      
+
         Console.WriteLine("Would you rather: positive or negative?");
         Console.WriteLine("enter pos for positive or neg for negative");
         Console.WriteLine();
